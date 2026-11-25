@@ -1,0 +1,26 @@
+# Operating System files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE & Editor files
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# .NET / Build & Test outputs
+**/[Bb]in/
+**/[Oo]bj/
+artifacts/
+TestResults/
+BenchmarkDotNet.Artifacts/
+
+/dotnet/benchmarks
